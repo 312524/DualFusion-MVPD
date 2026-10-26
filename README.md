@@ -31,6 +31,17 @@ The datasets can be downloaded from the following official sources:
 
 Training and evaluation instructions will be provided.
 
-## Acknowledgements
+## Citation
 
-Acknowledgements and relevant code dependencies will be added.
+If you find DualFusion useful in your research, please consider citing our paper:
+
+```bibtex
+@article{Kong2026DualFusion,
+  title   = {DualFusion: Dual adaptive fusion for multi-view pedestrian detection via view reliability modeling and channel reweighting},
+  author  = {Weihang Kong and Yong Wang and He Li and Xingchen Zhang},
+  journal = {Knowledge-Based Systems},
+  year    = {2026},
+  pages   = {117202},
+  doi     = {10.1016/j.knosys.2026.117202}
+}
+```
