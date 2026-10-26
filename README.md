@@ -25,7 +25,7 @@ The datasets can be downloaded from the following official sources:
 
 - **WildTrack**: [Download](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
 - **MultiviewX**: [Download](https://github.com/hou-yz/MultiviewX)
-- **CityStreet**: [Download]([https://visal.cs.cityu.edu.hk/downloads/citystreetdata/](https://drive.google.com/drive/folders/11hK1REG3P35S9ANXk1YB7C1-_SS_LQGJ?spm=a2c22.12282016.0.0.309d23d4p5YjQ2))
+- **CityStreet**: [Download](https://drive.google.com/drive/folders/11hK1REG3P35S9ANXk1YB7C1-_SS_LQGJ?spm=a2c22.12282016.0.0.309d23d4p5YjQ2)
 
 ## Training and Evaluation
 
