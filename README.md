@@ -13,11 +13,25 @@ The framework consists of two key components:
 
 ## Framework
 
-The overall architecture of DualFusion will be illustrated here.
+The overall architecture of DualFusion.
 
-## Installation
 
-Environment requirements and installation instructions will be provided.
+## Environment
+
+The experiments were conducted using the following environment:
+
+```text
+Python: 3.10
+PyTorch: 2.4.1
+torchvision: 0.19.1
+CUDA: 12.1
+NumPy: 2.2.6
+tqdm: 4.65.2
+kornia: 0.8.1
+opencv-python: 4.12.0.88
+matplotlib: 3.10.7
+```
+
 
 ## Datasets
 
@@ -29,7 +43,7 @@ The datasets can be downloaded from the following official sources:
 
 ## Training and Evaluation
 
-Training and evaluation instructions will be provided.
+
 
 ## Citation
 
