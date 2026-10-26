@@ -21,7 +21,11 @@ Environment requirements and installation instructions will be provided.
 
 ## Datasets
 
-Dataset preparation instructions will be provided.
+The datasets can be downloaded from the following official sources:
+
+- **WildTrack**: [Download](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/)
+- **MultiviewX**: [Download](https://github.com/hou-yz/MultiviewX)
+- **CityStreet**: [Download](https://visal.cs.cityu.edu.hk/downloads/citystreetdata/)
 
 ## Training and Evaluation
 
